@@ -142,8 +142,3 @@ python -m pytest -q tests
 - Try transformer embeddings (e.g. DistilBERT) and compare against the TF-IDF baseline
 - Parse raw `.eml` files (headers, sender domain, attachments) as extra features
 - Add a feedback button in the app to collect corrections for retraining
-
-## 🙏 Credits
-
-- **SMS Spam Collection:** Almeida & Hidalgo, UCI Machine Learning Repository (free for research use)
-- Project structure inspired by [HABIBEEYY/E-mail-spam-detection](https://github.com/HABIBEEYY/E-mail-spam-detection)
